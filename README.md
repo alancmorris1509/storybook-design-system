@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <p align="center">
   <a href="https://www.chromatic.com/">
@@ -78,3 +79,6 @@ If you encounter an issue with the template, we encourage you to open an issue i
 1. Read our introductory tutorial over at [Storybook tutorials](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/).
 2. Learn how to transform your component libraries into design systems in our [Design Systems for Developers](https://storybook.js.org/tutorials/design-systems-for-developers/) tutorial.
 2. See our official documentation at [Storybook](https://storybook.js.org/).
+=======
+# storybook-design-system
+>>>>>>> bcbefac45cafd2dc6edc4ae018135b1f8f0ffe0d
