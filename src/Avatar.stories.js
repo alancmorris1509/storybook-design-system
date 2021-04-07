@@ -59,3 +59,14 @@ export const Large = (args) => (
     />
   </div>
 );
+
+// New story using controls
+const Template = args => <Avatar {...args} />;
+
+export const Controls = Template.bind({});
+Controls.args = {
+  loading: false,
+  size: 'large',
+  username: 'Al Morris',
+  src: 'https://avatars.githubusercontent.com/u/80294179',
+};
